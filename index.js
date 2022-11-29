@@ -71,3 +71,17 @@ console.log(name1 === name2)
 
 const sentence = "John";
 console.log(sentence.toLowerCase() === name1)
+
+/* EXERCISE 8
+ Create a variable named x, and assign to it a numeric value less than 10.
+ Write the code to print the literal value of x (ex.: if x is 1, it should print "one", if x is 5 it should print "five" etc.).
+*/
+
+console.log("Exercise 8: \n")
+
+let anotherNameedX = 9;
+anotherNameedX = true;
+
+if (anotherNameedX === true) {
+    console.log("Nine");
+} 

@@ -67,13 +67,7 @@ console.log("Exercise 7: \n")
 
 let name1 = "john";
 let name2 = "John";
-console.log(name1 === name2) 
+console.log(name1 === name2)
 
-if (name2 === true) {
-    console.log("True");
-} else {
-    console.log("True")
-}
-
-
-
+const sentence = "John";
+console.log(sentence.toLowerCase() === name1)

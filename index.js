@@ -85,3 +85,9 @@ anotherNameedX = true;
 if (anotherNameedX === true) {
     console.log("Nine");
 } 
+
+/* EXERCISE 9
+ [Extra] Assign a value to a variable using a ternary operator (this topic has not been covered during lesson yet,
+ try to search it by yourself, tomorrow morning we'll discuss it together!)
+*/
+
